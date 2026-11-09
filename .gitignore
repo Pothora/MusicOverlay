@@ -1,0 +1,15 @@
+## Build output
+bin/
+obj/
+
+## IDE/user state
+.vs/
+*.user
+*.suo
+
+## Local/runtime logs
+*.log
+
+## OS files
+Thumbs.db
+Desktop.ini
